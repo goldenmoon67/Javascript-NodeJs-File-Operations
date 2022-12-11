@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.10",
+    "xhr2": "^0.2.1"
+  },
+  "type": "module"
+}
